@@ -1,0 +1,299 @@
+# Translation of Plugins - BP Profile Search - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - BP Profile Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-27 08:10:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - BP Profile Search - Stable (latest release)\n"
+
+#: bps-fields.php:72
+msgid "age range"
+msgstr "возрастной диапазон"
+
+#: bps-fields.php:76 bps-fields.php:101
+msgid "match all"
+msgstr "соответствовать всем"
+
+#: bps-fields.php:75 bps-fields.php:100
+msgid "match any"
+msgstr "соответствовать любому"
+
+#: bps-admin.php:22
+msgid "Search Mode"
+msgstr "Режим поиска"
+
+#: bps-admin.php:54 bps-admin.php:67
+msgid "Remove"
+msgstr "Удалить"
+
+#: bps-external.php:362
+msgid "Member type"
+msgstr "Тип пользователя"
+
+#: bps-external.php:363
+msgid "Select the member type"
+msgstr "Выбрать тип пользователя"
+
+#: bps-xprofile.php:274
+msgid "Any field"
+msgstr "Любое поле"
+
+#: bps-fields.php:68 bps-fields.php:93
+msgid "contains"
+msgstr "содержит"
+
+#: bps-fields.php:69
+msgid "is"
+msgstr "равен"
+
+#: bps-fields.php:70 bps-fields.php:95
+msgid "is like"
+msgstr "совпадает"
+
+#: bps-start.php:52
+msgid "Settings"
+msgstr "Настройки"
+
+#: bps-start.php:144
+msgid "Form"
+msgstr "Форма"
+
+#: bps-help.php:76
+msgid "Documentation"
+msgstr "Документация"
+
+#: bps-admin.php:126 bps-admin.php:210
+#: templates/members/bps-form-default.php:33
+msgid "No"
+msgstr "Нет"
+
+#: bps-admin.php:125 bps-admin.php:209
+#: templates/members/bps-form-default.php:32
+msgid "Yes"
+msgstr "Да"
+
+#: bps-template.php:221
+msgid "Search"
+msgstr "Поиск"
+
+#: bps-template.php:220 bps-template.php:258
+msgid "Clear"
+msgstr "Очистить"
+
+#: bps-help.php:75
+msgid "For more information:"
+msgstr "Для дополнительной информации:"
+
+#. Plugin Name of the plugin
+msgid "BP Profile Search"
+msgstr "BP Profile Search"
+
+#. Plugin URI of the plugin
+msgid "http://www.dontdream.it/bp-profile-search/"
+msgstr "http://www.dontdream.it/bp-profile-search/"
+
+#. Author of the plugin
+msgid "Andrea Tarantini"
+msgstr "Andrea Tarantini"
+
+#: bps-start.php:234
+msgid "Form updated."
+msgstr "Форма обновлена."
+
+#: bps-start.php:239
+msgid "Form created."
+msgstr "Form created."
+
+#: bps-admin.php:131
+msgid "POST"
+msgstr "POST"
+
+#: bps-admin.php:132
+msgid "GET"
+msgstr "GET"
+
+#: bps-admin.php:129 bps-help.php:52
+msgid "Form Method"
+msgstr "Метод отправки формы"
+
+#: bps-start.php:150
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: bps-start.php:167
+msgid "undefined"
+msgstr "не определен"
+
+#: bps-start.php:191
+msgid "Move to Trash"
+msgstr "Удалить в корзину"
+
+#: bps-start.php:192
+msgid "Restore"
+msgstr "Восстановить"
+
+#: bps-start.php:193
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: bps-admin.php:8 bps-admin.php:145 bps-help.php:28
+msgid "Form Template"
+msgstr "Шаблон формы"
+
+#: bps-start.php:98
+msgid "Add New Form"
+msgstr "Добавить форму"
+
+#: bps-start.php:99
+msgid "Edit Form"
+msgstr "Редактировать форму"
+
+#: bps-start.php:100
+msgid "No forms found."
+msgstr "Формы не найдены."
+
+#: bps-start.php:101
+msgid "No forms found in Trash."
+msgstr "Форм в корзине не обнаружено."
+
+#: bps-start.php:145
+msgid "Fields"
+msgstr "Поля"
+
+#: bps-start.php:147
+msgid "Directory"
+msgstr "Директория"
+
+#: bps-start.php:149
+msgid "Widget"
+msgstr "Виджет"
+
+#: bps-admin.php:21
+msgid "Description"
+msgstr "Описание"
+
+#: bps-admin.php:31
+msgid "Add Field"
+msgstr "Добавить поле"
+
+#: bps-start.php:177 bps-start.php:183
+msgid "unused"
+msgstr "не используется"
+
+#: bps-start.php:95
+msgid "Profile Search Form"
+msgstr "Форма поиска профилей"
+
+#: bps-start.php:94
+msgid "Profile Search Forms"
+msgstr "Формы поиска профилей"
+
+#: bps-admin.php:19
+msgid "Field"
+msgstr "Поле"
+
+#: bps-admin.php:20
+msgid "Label"
+msgstr "Заголовок"
+
+#: bps-help.php:80
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: bps-help.php:79
+msgid "Incompatible plugins"
+msgstr "Несовместимые плагины"
+
+#: bps-start.php:255
+msgid "%s form permanently deleted."
+msgid_plural "%s forms permanently deleted."
+msgstr[0] "%s форма удалена навсегда."
+msgstr[1] "%s формы удалены навсегда."
+msgstr[2] "%s форм удалено навсегда."
+
+#: bps-start.php:256
+msgid "%s form moved to the Trash."
+msgid_plural "%s forms moved to the Trash."
+msgstr[0] "%s форма удалена в корзину."
+msgstr[1] "%s формы удалены в корзину."
+msgstr[2] "%s форм удалено в корзину."
+
+#: bps-start.php:257
+msgid "%s form restored from the Trash."
+msgid_plural "%s forms restored from the Trash."
+msgstr[0] "%s форма восстановлена из корзины."
+msgstr[1] "%s формы восстановлены из корзины."
+msgstr[2] "%s форм восстановлено из корзины."
+
+#: bps-help.php:53
+msgid "Select your form’s <em>method</em> attribute."
+msgstr "Выберите <em>метод отправки</em> вашей формы."
+
+#: templates/members/bps-filters.php:29
+msgid "min"
+msgstr "мин"
+
+#: templates/members/bps-filters.php:30
+msgid "max"
+msgstr "макс"
+
+#: bps-help.php:25
+msgid "To leave a field description blank, enter a single dash (-) character"
+msgstr "Чтобы оставить поле описания пустым, введите один знак тире (-)"
+
+#: bps-help.php:71 bps-start.php:97
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: bps-widget.php:48
+msgid "Form:"
+msgstr "Форма:"
+
+#: bps-start.php:181 bps-widget.php:57
+msgid "(no title)"
+msgstr "(без заголовка)"
+
+#: bps-help.php:12 bps-start.php:96 bps-widget.php:14
+msgid "Profile Search"
+msgstr "Поиск профилей"
+
+#: bps-widget.php:13
+msgid "A Profile Search form."
+msgstr "Форма поиска профилей."
+
+#: bps-widget.php:67
+msgid "You have not created any form yet."
+msgstr "Вы ещё не создали ни одной формы."
+
+#: bps-admin.php:6 bps-help.php:17
+msgid "Form Fields"
+msgstr "Поля формы"
+
+#: bps-start.php:148
+msgid "Add to Directory"
+msgstr "Добавить в директорию"
+
+#: bps-help.php:23
+msgid "To reorder the fields in the form, drag them up or down by the handle on the left"
+msgstr "Чтобы изменить порядок полей в форме, перетащите их вверх или вниз с помощью ручки слева"
+
+#: bps-help.php:21
+msgid "Customize the field label and description, or leave them empty to use the default"
+msgstr "Настройте заголовки и описание полей или оставьте их пустыми, чтобы использовать значения по умолчанию"
+
+#: bps-help.php:19
+msgid "Select the profile fields to show in your search form."
+msgstr "Выберите поля профиля, которые будут отображаться в форме поиска."
+
+#: bps-widget.php:44
+msgid "Title:"
+msgstr "Название:"
+
+#: bps-help.php:12
+msgid "In a sidebar or widget area, using the widget %s"
+msgstr "В боковой панели или области виджетов используйте виджет %s"
